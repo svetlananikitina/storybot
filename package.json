@@ -1,0 +1,14 @@
+{
+  "name": "react-chat-app",
+  "version": "0.0.1",
+  "dependencies": [],
+  "devDependencies": {
+    "expres": "0.0.5",
+    "express": "^4.15.3",
+    "http": "0.0.0",
+    "nimble": "0.0.2",
+    "node-google-image-search": "^1.0.3",
+    "request": "^2.81.0",
+    "socket.io": "^2.0.2"
+  }
+}
